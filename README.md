@@ -9,8 +9,8 @@ This project predicts the final score of an IPL innings based on input condition
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/arindal1/IPL-score-pred
-cd IPL-score-pred
+git clone https://github.com/SyedThameemuddin/IPL-Score-Prediction
+cd IPL-score-Prediction
 ```
 
 ---
@@ -54,7 +54,7 @@ pip install ipywidgets==8.0.6
 ### 🚀 Launch the Notebook
 
 ```bash
-jupyter notebook IPLScore-test.ipynb
+jupyter notebook IPLScore.ipynb
 ```
 
 > ⚠️ **Make sure to update the CSV file path in the notebook before running it.**
@@ -96,7 +96,7 @@ pip install ipywidgets==8.0.6
 ### 4️⃣ Launch the Notebook
 
 ```bash
-jupyter notebook IPLScore-test.ipynb
+jupyter notebook IPLScore.ipynb
 ```
 
 > ⚠️ Adjust the CSV file path before running the notebook and use “Restart Kernel and Run All Cells”.
